@@ -6,6 +6,6 @@ Crop Link is a LoRa-based IoT data logging and communication system designed for
 ![B4C97D39-0B5F-4EE4-A005-456987E007A9_1_201_a](https://github.com/user-attachments/assets/695efd18-185a-41b8-8e52-720f77bbcf47)
 ![4F228DE5-FEAE-462C-B5F8-36705A7806EC_1_201_a](https://github.com/user-attachments/assets/7f0e8320-6bbe-4089-a7ce-0aca853eb9d1)
 ![C9FC567B-2788-4EFA-AF8E-49FA644E9284_1_201_a](https://github.com/user-attachments/assets/5dc523e3-168f-44f9-8d3d-baa0a0e23ea8)
-
-
+Yes, this project is open source. The circuit contains some mistakes, as this is version 1.1.2, so please do not blindly follow the schematic. For detailed information and updates, please visit my Hackster page.
+https://www.hackster.io/iwantmyspace2002/the-crop-link-25cf29
 
